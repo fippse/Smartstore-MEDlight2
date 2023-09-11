@@ -1,0 +1,3 @@
+[submodule "src/Smartstore.Web/Themes/MEDlightXD"]
+	path = src/Smartstore.Web/Themes/MEDlightXD
+	url = ./src/Smartstore.Web/Themes/MEDlightXD
