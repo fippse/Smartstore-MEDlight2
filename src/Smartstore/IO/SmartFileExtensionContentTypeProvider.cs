@@ -7,6 +7,8 @@ namespace Smartstore.IO
         public SmartFileExtensionContentTypeProvider()
             : base()
         {
+
+            base.Mappings[".vue"] = "text/html";
             // TODO: (core) Add more file extensions to FileExtensionContentTypeProvider (?)
         }
     }
