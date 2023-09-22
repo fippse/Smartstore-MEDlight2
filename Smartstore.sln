@@ -85,6 +85,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartstore.Data.Sqlite", "s
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MEDlightXD", "src\Smartstore.Web\Themes\MEDlightXD\MEDlightXD.csproj", "{E35D59FA-63FE-455B-82DA-659DFBCDA82B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MEDlight.Tabhelper", "src\Smartstore.Modules\MEDlight.Tabhelper\MEDlight.Tabhelper.csproj", "{8CAFC90B-E5D7-419C-91C9-96C291085DAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.Tabs", "src\Smartstore.Modules\ML.Tabs\ML.Tabs.csproj", "{0C0F5601-EABD-4A78-9628-450949A816C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -278,6 +282,18 @@ Global
 		{E35D59FA-63FE-455B-82DA-659DFBCDA82B}.DebugNoRazorCompile|Any CPU.Build.0 = Debug|Any CPU
 		{E35D59FA-63FE-455B-82DA-659DFBCDA82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E35D59FA-63FE-455B-82DA-659DFBCDA82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAFC90B-E5D7-419C-91C9-96C291085DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAFC90B-E5D7-419C-91C9-96C291085DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAFC90B-E5D7-419C-91C9-96C291085DAA}.DebugNoRazorCompile|Any CPU.ActiveCfg = DebugNoRazorCompile|Any CPU
+		{8CAFC90B-E5D7-419C-91C9-96C291085DAA}.DebugNoRazorCompile|Any CPU.Build.0 = DebugNoRazorCompile|Any CPU
+		{8CAFC90B-E5D7-419C-91C9-96C291085DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAFC90B-E5D7-419C-91C9-96C291085DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0F5601-EABD-4A78-9628-450949A816C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0F5601-EABD-4A78-9628-450949A816C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0F5601-EABD-4A78-9628-450949A816C6}.DebugNoRazorCompile|Any CPU.ActiveCfg = DebugNoRazorCompile|Any CPU
+		{0C0F5601-EABD-4A78-9628-450949A816C6}.DebugNoRazorCompile|Any CPU.Build.0 = DebugNoRazorCompile|Any CPU
+		{0C0F5601-EABD-4A78-9628-450949A816C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0F5601-EABD-4A78-9628-450949A816C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -309,6 +325,8 @@ Global
 		{0C26B088-A8F6-42E8-AB8D-D9D297FDD72C} = {E5C1AA43-6B44-4EFA-8DE9-6070EE007CE3}
 		{1A016177-D0EA-49AD-9BD5-BAD99D9D08F9} = {82A38DDA-C944-4C15-AF43-86732F8ED15A}
 		{32683DB7-C20D-4ABD-BE90-569168B2A68F} = {82A38DDA-C944-4C15-AF43-86732F8ED15A}
+		{8CAFC90B-E5D7-419C-91C9-96C291085DAA} = {E5C1AA43-6B44-4EFA-8DE9-6070EE007CE3}
+		{0C0F5601-EABD-4A78-9628-450949A816C6} = {E5C1AA43-6B44-4EFA-8DE9-6070EE007CE3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A0A0B995-5D0B-458E-BCC0-1071B76949D1}

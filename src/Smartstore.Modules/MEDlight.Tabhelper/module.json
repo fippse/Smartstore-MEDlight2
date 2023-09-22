@@ -1,0 +1,18 @@
+{
+  "$schema": "../module.schema.json",
+  "Group": "Developer",
+  "SystemName": "MEDlight.Tabhelper",
+  "FriendlyName": "MEDlight Tabhelper Tools",
+  "Description": "",
+  "Version": "5.0.5",
+  "MinAppVersion": "5.0.5",
+  "Author": "PCH",
+  "Order": 1,
+  "ResourceRootKey": "Plugins.Developer.Tabhelper",
+  "PrivateReferences": [
+    "MiniProfiler.Shared",
+    "MiniProfiler.AspNetCore",
+    "MiniProfiler.AspNetCore.Mvc",
+    "MiniProfiler.EntityFrameworkCore"
+  ]
+}
